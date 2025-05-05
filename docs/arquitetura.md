@@ -4,7 +4,7 @@
 
 - **Streamlit:** Frontend para entrada de dados e exibição dos resultados.
 - **Tesseract OCR:** Reconhecimento de texto em imagens (documentos enviados).
-- **Scikit-learn:** IA simples com Naive Bayes treinada com textos de fãs de e-sports.
+- **Scikit-learn:** IA com Naive Bayes treinada com textos de fãs de e-sports.
 - **Pipeline:** Pré-processamento + Classificador integrado em um único modelo `.pkl`.
 
 ### Fluxo
