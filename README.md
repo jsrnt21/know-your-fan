@@ -12,3 +12,10 @@ A solução permite:
 O modelo de IA foi treinado com exemplos reais de perfis de fãs e perfis genéricos, garantindo uma análise rápida e automatizada.
 
 O aplicativo possui interface simples, intuitiva e foi desenvolvido com foco em prototipagem funcional, sendo possível testá-lo com dados reais do usuário.
+
+## 📚 Documentação
+
+- [Instalação](docs/instalacao.md)
+- [Como Usar](docs/uso.md)
+- [Arquitetura da Solução](docs/arquitetura.md)
+
